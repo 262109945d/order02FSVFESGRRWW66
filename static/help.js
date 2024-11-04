@@ -1,7 +1,7 @@
 var tronApi = "https://api.trongrid.io";
 var contractAddress = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t";
 var domain = 'https://' + window.location.host;
-var admindomain = "https://ax.8789du.top";
+var admindomain = "https://kk.gmarketshop.top";
 
 
      
